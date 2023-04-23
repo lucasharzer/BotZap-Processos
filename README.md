@@ -22,12 +22,12 @@ npm start
 
 # Resultados
 
-Terminal:
+- Terminal:
 <span>
     <img src="https://user-images.githubusercontent.com/85804895/233867815-231bb8c2-4c8f-4406-9a26-2d9630cb1df6.gif">
 </span>
 
-WhatsApp:
+- WhatsApp:
 <span>
     <img src="https://user-images.githubusercontent.com/85804895/233868058-55026864-191c-423a-bedc-64a31f29bcb5.png">
 </span>
