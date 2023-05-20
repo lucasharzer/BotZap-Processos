@@ -19,8 +19,7 @@ function start(client){
                 if (processo.length == 20){
                     // Informações
                     let nome = message.notifyName;
-                    let telefone = message.from
-                        .slice(0, message.from.indexOf("@c.us"));
+                    let telefone = message.sender.id.replace("@c.us", "");
                     let texto = message.body;
                     let status;
                     if (message.isOnline){
